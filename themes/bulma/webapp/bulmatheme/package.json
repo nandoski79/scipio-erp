@@ -139,7 +139,7 @@
     "shebang-regex": "^3.0.0",
     "signal-exit": "^3.0.7",
     "smart-buffer": "^4.2.0",
-    "socks": "^2.7.1",
+    "socks": "^2.7.2",
     "socks-proxy-agent": "^7.0.0",
     "source-map": "^0.7.4",
     "spdx-correct": "^3.1.1",
