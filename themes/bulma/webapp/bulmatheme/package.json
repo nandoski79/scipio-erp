@@ -154,7 +154,7 @@
     "strip-indent": "^3.0.0",
     "supports-color": "^7.2.0",
     "supports-preserve-symlinks-flag": "^1.0.0",
-    "tar": "^6.1.12",
+    "tar": "^6.2.1",
     "trim-newlines": "^3.0.1",
     "true-case-path": "^2.2.1",
     "type-fest": "^0.18.1",
