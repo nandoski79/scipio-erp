@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "dependencies": {
-    "@coreui/coreui": "^2.1.9",
+    "@coreui/coreui": "^3.0.0",
     "bootstrap": "^4.3.1",
     "chart.js": "^2.8.0",
     "datatables": "^1.10.18",
