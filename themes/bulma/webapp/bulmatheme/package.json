@@ -30,7 +30,7 @@
     "concat-map": "^0.0.1",
     "console-control-strings": "^1.1.0",
     "core-util-is": "^1.0.3",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.5",
     "debug": "^4.3.4",
     "decamelize": "^1.2.0",
     "decamelize-keys": "^1.1.1",
